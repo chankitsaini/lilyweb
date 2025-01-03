@@ -235,10 +235,10 @@
         });
 
         if (response.ok) {
-          alert('Email sent to Telegram successfully!');
+          alert('Subscribed Successfully!');
         } else {
           const result = await response.json();
-          alert(`Failed to send email: ${result.message}`);
+          alert(`Failed to Subscribe. Please Try again later.: ${result.message}`);
         }
       } catch (error) {
         alert('An error occurred while subscribing you. Please try again.');
