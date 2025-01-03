@@ -1,0 +1,857 @@
+[
+  {
+    "hitokoto": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "hitokoto": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "hitokoto": "Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain."
+  },
+  {
+    "hitokoto": "Be yourself; everyone else is already taken."
+  },
+  {
+    "hitokoto": "The only way to do great work is to love what you do."
+  },
+  {
+    "hitokoto": "It does not matter how slowly you go as long as you do not stop."
+  },
+  {
+    "hitokoto": "You must be the change you wish to see in the world."
+  },
+  {
+    "hitokoto": "The journey of a thousand miles begins with one step."
+  },
+  {
+    "hitokoto": "In the middle of difficulty lies opportunity."
+  },
+  {
+    "hitokoto": "Your time is limited, so don’t waste it living someone else’s life."
+  },
+  {
+    "hitokoto": "Dream big and dare to fail."
+  },
+  {
+    "hitokoto": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "hitokoto": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+  },
+  {
+    "hitokoto": "The only limit to our realization of tomorrow is our doubts of today."
+  },
+  {
+    "hitokoto": "Happiness is not something ready-made. It comes from your own actions."
+  },
+  {
+    "hitokoto": "The only impossible journey is the one you never begin."
+  },
+  {
+    "hitokoto": "Life is what happens when you’re busy making other plans."
+  },
+  {
+    "hitokoto": "The best way to predict the future is to create it."
+  },
+  {
+    "hitokoto": "Don’t watch the clock; do what it does. Keep going."
+  },
+  {
+    "hitokoto": "It always seems impossible until it’s done."
+  },
+  {
+    "hitokoto": "Nothing is impossible. The word itself says ‘I’m possible!’"
+  },
+  {
+    "hitokoto": "Believe you can and you’re halfway there."
+  },
+  {
+    "hitokoto": "Don’t wait. The time will never be just right."
+  },
+  {
+    "hitokoto": "Everything you can imagine is real."
+  },
+  {
+    "hitokoto": "To live is the rarest thing in the world. Most people exist, that is all."
+  },
+  {
+    "hitokoto": "If you want to live a happy life, tie it to a goal, not to people or things."
+  },
+  {
+    "hitokoto": "The only way to achieve the impossible is to believe it is possible."
+  },
+  {
+    "hitokoto": "Success is not how high you have climbed, but how you make a positive difference to the world."
+  },
+  {
+    "hitokoto": "It does not matter how many times you get knocked down, but how many times you get up."
+  },
+  {
+    "hitokoto": "Everything has beauty, but not everyone sees it."
+  },
+  {
+    "hitokoto": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+  },
+  {
+    "hitokoto": "You can never cross the ocean until you have the courage to lose sight of the shore."
+  },
+  {
+    "hitokoto": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle."
+  },
+  {
+    "hitokoto": "You don’t have to be great to start, but you have to start to be great."
+  },
+  {
+    "hitokoto": "Success usually comes to those who are too busy to be looking for it."
+  },
+  {
+    "hitokoto": "Opportunities don't happen. You create them."
+  },
+  {
+    "hitokoto": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."
+  },
+  {
+    "hitokoto": "Everything you’ve ever wanted is on the other side of fear."
+  },
+  {
+    "hitokoto": "In the end, we will remember not the words of our enemies, but the silence of our friends."
+  },
+  {
+    "hitokoto": "The best revenge is massive success."
+  },
+  {
+    "hitokoto": "I find that the harder I work, the more luck I seem to have."
+  },
+  {
+    "hitokoto": "We may encounter many defeats, but we must not be defeated."
+  },
+  {
+    "hitokoto": "Whether you think you can or you think you can’t, you’re right."
+  },
+  {
+    "hitokoto": "I never dreamed about success. I worked for it."
+  },
+  {
+    "hitokoto": "If you can dream it, you can do it."
+  },
+  {
+    "hitokoto": "Do one thing every day that scares you."
+  },
+  {
+    "hitokoto": "Don’t be afraid to give up the good to go for the great."
+  },
+  {
+    "hitokoto": "Everything has to be right at the right time, but only if you’re brave enough to pursue it."
+  },
+  {
+    "hitokoto": "Failure is another stepping stone to greatness."
+  },
+  {
+    "hitokoto": "Do not wait to strike till the iron is hot, but make it hot by striking."
+  },
+  {
+    "hitokoto": "What you get by achieving your goals is not as important as what you become by achieving your goals."
+  },
+  {
+    "hitokoto": "You miss 100% of the shots you don’t take."
+  },
+  {
+    "hitokoto": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "hitokoto": "Success is walking from failure to failure with no loss of enthusiasm."
+  },
+  {
+    "hitokoto": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "hitokoto": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "hitokoto": "Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain."
+  },
+  {
+    "hitokoto": "Be yourself; everyone else is already taken."
+  },
+  {
+    "hitokoto": "The only way to do great work is to love what you do."
+  },
+  {
+    "hitokoto": "It does not matter how slowly you go as long as you do not stop."
+  },
+  {
+    "hitokoto": "You must be the change you wish to see in the world."
+  },
+  {
+    "hitokoto": "The journey of a thousand miles begins with one step."
+  },
+  {
+    "hitokoto": "In the middle of difficulty lies opportunity."
+  },
+  {
+    "hitokoto": "Your time is limited, so don’t waste it living someone else’s life."
+  },
+  {
+    "hitokoto": "Dream big and dare to fail."
+  },
+  {
+    "hitokoto": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "hitokoto": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+  },
+  {
+    "hitokoto": "The only limit to our realization of tomorrow is our doubts of today."
+  },
+  {
+    "hitokoto": "Happiness is not something ready-made. It comes from your own actions."
+  },
+  {
+    "hitokoto": "The only impossible journey is the one you never begin."
+  },
+  {
+    "hitokoto": "Life is what happens when you’re busy making other plans."
+  },
+  {
+    "hitokoto": "The best way to predict the future is to create it."
+  },
+  {
+    "hitokoto": "Don’t watch the clock; do what it does. Keep going."
+  },
+  {
+    "hitokoto": "It always seems impossible until it’s done."
+  },
+  {
+    "hitokoto": "Nothing is impossible. The word itself says ‘I’m possible!’"
+  },
+  {
+    "hitokoto": "Believe you can and you’re halfway there."
+  },
+  {
+    "hitokoto": "Don’t wait. The time will never be just right."
+  },
+  {
+    "hitokoto": "Everything you can imagine is real."
+  },
+  {
+    "hitokoto": "To live is the rarest thing in the world. Most people exist, that is all."
+  },
+  {
+    "hitokoto": "If you want to live a happy life, tie it to a goal, not to people or things."
+  },
+  {
+    "hitokoto": "The only way to achieve the impossible is to believe it is possible."
+  },
+  {
+    "hitokoto": "Success is not how high you have climbed, but how you make a positive difference to the world."
+  },
+  {
+    "hitokoto": "It does not matter how many times you get knocked down, but how many times you get up."
+  },
+  {
+    "hitokoto": "Everything has beauty, but not everyone sees it."
+  },
+  {
+    "hitokoto": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+  },
+  {
+    "hitokoto": "You can never cross the ocean until you have the courage to lose sight of the shore."
+  },
+  {
+    "hitokoto": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle."
+  },
+  {
+    "hitokoto": "You don’t have to be great to start, but you have to start to be great."
+  },
+  {
+    "hitokoto": "Success usually comes to those who are too busy to be looking for it."
+  },
+  {
+    "hitokoto": "Opportunities don't happen. You create them."
+  },
+  {
+    "hitokoto": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."
+  },
+  {
+    "hitokoto": "Everything you’ve ever wanted is on the other side of fear."
+  },
+  {
+    "hitokoto": "In the end, we will remember not the words of our enemies, but the silence of our friends."
+  },
+  {
+    "hitokoto": "The best revenge is massive success."
+  },
+  {
+    "hitokoto": "I find that the harder I work, the more luck I seem to have."
+  },
+  {
+    "hitokoto": "We may encounter many defeats, but we must not be defeated."
+  },
+  {
+    "hitokoto": "Whether you think you can or you think you can’t, you’re right."
+  },
+  {
+    "hitokoto": "I never dreamed about success. I worked for it."
+  },
+  {
+    "hitokoto": "If you can dream it, you can do it."
+  },
+  {
+    "hitokoto": "Do one thing every day that scares you."
+  },
+  {
+    "hitokoto": "Don’t be afraid to give up the good to go for the great."
+  },
+  {
+    "hitokoto": "Everything has to be right at the right time, but only if you’re brave enough to pursue it."
+  },
+  {
+    "hitokoto": "Failure is another stepping stone to greatness."
+  },
+  {
+    "hitokoto": "Do not wait to strike till the iron is hot, but make it hot by striking."
+  },
+  {
+    "hitokoto": "What you get by achieving your goals is not as important as what you become by achieving your goals."
+  },
+  {
+    "hitokoto": "You miss 100% of the shots you don’t take."
+  },
+  {
+    "hitokoto": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "hitokoto": "Success is walking from failure to failure with no loss of enthusiasm."
+  },
+  {
+    "hitokoto": "The only place where success comes before work is in the dictionary."
+  },
+  {
+    "hitokoto": "The best time to plant a tree was 20 years ago. The second best time is now."
+  },
+  {
+    "hitokoto": "If you want to live a happy life, tie it to a goal, not to people or things."
+  },
+  {
+    "hitokoto": "Success is the sum of small efforts, repeated day in and day out."
+  },
+  {
+    "hitokoto": "Don’t let yesterday take up too much of today."
+  },
+  {
+    "hitokoto": "It is never too late to be what you might have been."
+  },
+  {
+    "hitokoto": "If you set your goals ridiculously high and it’s a failure, you will fail above everyone else’s success."
+  },
+  {
+    "hitokoto": "It’s not whether you get knocked down, it’s whether you get up."
+  },
+  {
+    "hitokoto": "Keep your face always toward the sunshine—and shadows will fall behind you."
+  },
+  {
+    "hitokoto": "What we achieve inwardly will change outer reality."
+  },
+  {
+    "hitokoto": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "hitokoto": "We are all in the gutter, but some of us are looking at the stars."
+  },
+  {
+    "hitokoto": "The only way to achieve the impossible is to believe it is possible."
+  },
+  {
+    "hitokoto": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."
+  },
+  {
+    "hitokoto": "Act as if what you do makes a difference. It does."
+  },
+  {
+    "hitokoto": "Success is not in what you have, but who you are."
+  },
+  {
+    "hitokoto": "Life is short, and it is up to you to make it sweet."
+  },
+  {
+    "hitokoto": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "hitokoto": "Life is really simple, but we insist on making it complicated."
+  },
+  {
+    "hitokoto": "The mind is everything. What you think you become."
+  },
+  {
+    "hitokoto": "You don’t have to be perfect to be amazing."
+  },
+  {
+    "hitokoto": "The only time you fail is when you fall down and stay down."
+  },
+  {
+    "hitokoto": "To succeed in life, you need two things: ignorance and confidence."
+  },
+  {
+    "hitokoto": "Act as if what you do makes a difference. It does."
+  },
+  {
+    "hitokoto": "A goal without a plan is just a wish."
+  },
+  {
+    "hitokoto": "Success is the result of preparation, hard work, and learning from failure."
+  },
+  {
+    "hitokoto": "You can’t go back and change the beginning, but you can start where you are and change the ending."
+  },
+  {
+    "hitokoto": "Success doesn’t come from what you do occasionally, it comes from what you do consistently."
+  },
+  {
+    "hitokoto": "I am not a product of my circumstances. I am a product of my decisions."
+  },
+  {
+    "hitokoto": "You don’t have to be great to start, but you have to start to be great."
+  },
+  {
+    "hitokoto": "Believe in yourself and all that you are."
+  },
+  {
+    "hitokoto": "Your life is your message to the world. Make sure it’s inspiring."
+  },
+  {
+    "hitokoto": "Failure is the condiment that gives success its flavor."
+  },
+  {
+    "hitokoto": "Do not wait to strike till the iron is hot, but make it hot by striking."
+  },
+  {
+    "hitokoto": "The best time to plant a tree was 20 years ago. The second best time is now."
+  },
+  {
+    "hitokoto": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "hitokoto": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+  },
+  {
+    "hitokoto": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "hitokoto": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "hitokoto": "Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain."
+  },
+  {
+    "hitokoto": "Be yourself; everyone else is already taken."
+  },
+  {
+    "hitokoto": "The only way to do great work is to love what you do."
+  },
+  {
+    "hitokoto": "It does not matter how slowly you go as long as you do not stop."
+  },
+  {
+    "hitokoto": "You must be the change you wish to see in the world."
+  },
+  {
+    "hitokoto": "The journey of a thousand miles begins with one step."
+  },
+  {
+    "hitokoto": "In the middle of difficulty lies opportunity."
+  },
+  {
+    "hitokoto": "Your time is limited, so don’t waste it living someone else’s life."
+  },
+  {
+    "hitokoto": "Dream big and dare to fail."
+  },
+  {
+    "hitokoto": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "hitokoto": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+  },
+  {
+    "hitokoto": "The only limit to our realization of tomorrow is our doubts of today."
+  },
+  {
+    "hitokoto": "Happiness is not something ready-made. It comes from your own actions."
+  },
+  {
+    "hitokoto": "The only impossible journey is the one you never begin."
+  },
+  {
+    "hitokoto": "Life is what happens when you’re busy making other plans."
+  },
+  {
+    "hitokoto": "The best way to predict the future is to create it."
+  },
+  {
+    "hitokoto": "Don’t watch the clock; do what it does. Keep going."
+  },
+  {
+    "hitokoto": "It always seems impossible until it’s done."
+  },
+  {
+    "hitokoto": "Nothing is impossible. The word itself says ‘I’m possible!’"
+  },
+  {
+    "hitokoto": "Believe you can and you’re halfway there."
+  },
+  {
+    "hitokoto": "Don’t wait. The time will never be just right."
+  },
+  {
+    "hitokoto": "Everything you can imagine is real."
+  },
+  {
+    "hitokoto": "To live is the rarest thing in the world. Most people exist, that is all."
+  },
+  {
+    "hitokoto": "If you want to live a happy life, tie it to a goal, not to people or things."
+  },
+  {
+    "hitokoto": "The only way to achieve the impossible is to believe it is possible."
+  },
+  {
+    "hitokoto": "Success is not how high you have climbed, but how you make a positive difference to the world."
+  },
+  {
+    "hitokoto": "It does not matter how many times you get knocked down, but how many times you get up."
+  },
+  {
+    "hitokoto": "Everything has beauty, but not everyone sees it."
+  },
+  {
+    "hitokoto": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+  },
+  {
+    "hitokoto": "You can never cross the ocean until you have the courage to lose sight of the shore."
+  },
+  {
+    "hitokoto": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle."
+  },
+  {
+    "hitokoto": "You don’t have to be great to start, but you have to start to be great."
+  },
+  {
+    "hitokoto": "Success usually comes to those who are too busy to be looking for it."
+  },
+  {
+    "hitokoto": "Opportunities don't happen. You create them."
+  },
+  {
+    "hitokoto": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."
+  },
+  {
+    "hitokoto": "Everything you’ve ever wanted is on the other side of fear."
+  },
+  {
+    "hitokoto": "In the end, we will remember not the words of our enemies, but the silence of our friends."
+  },
+  {
+    "hitokoto": "The best revenge is massive success."
+  },
+  {
+    "hitokoto": "I find that the harder I work, the more luck I seem to have."
+  },
+  {
+    "hitokoto": "We may encounter many defeats, but we must not be defeated."
+  },
+  {
+    "hitokoto": "Whether you think you can or you think you can’t, you’re right."
+  },
+  {
+    "hitokoto": "I never dreamed about success. I worked for it."
+  },
+  {
+    "hitokoto": "If you can dream it, you can do it."
+  },
+  {
+    "hitokoto": "Do one thing every day that scares you."
+  },
+  {
+    "hitokoto": "Don’t be afraid to give up the good to go for the great."
+  },
+  {
+    "hitokoto": "Everything has to be right at the right time, but only if you’re brave enough to pursue it."
+  },
+  {
+    "hitokoto": "Failure is another stepping stone to greatness."
+  },
+  {
+    "hitokoto": "Do not wait to strike till the iron is hot, but make it hot by striking."
+  },
+  {
+    "hitokoto": "What you get by achieving your goals is not as important as what you become by achieving your goals."
+  },
+  {
+    "hitokoto": "You miss 100% of the shots you don’t take."
+  },
+  {
+    "hitokoto": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "hitokoto": "Success is walking from failure to failure with no loss of enthusiasm."
+  },
+  {
+    "hitokoto": "The only place where success comes before work is in the dictionary."
+  },
+  {
+    "hitokoto": "The best time to plant a tree was 20 years ago. The second best time is now."
+  },
+  {
+    "hitokoto": "If you want to live a happy life, tie it to a goal, not to people or things."
+  },
+  {
+    "hitokoto": "Success is the sum of small efforts, repeated day in and day out."
+  },
+  {
+    "hitokoto": "Don’t let yesterday take up too much of today."
+  },
+  {
+    "hitokoto": "It is never too late to be what you might have been."
+  },
+  {
+    "hitokoto": "If you set your goals ridiculously high and it’s a failure, you will fail above everyone else’s success."
+  },
+  {
+    "hitokoto": "It’s not whether you get knocked down, it’s whether you get up."
+  },
+  {
+    "hitokoto": "Keep your face always toward the sunshine—and shadows will fall behind you."
+  },
+  {
+    "hitokoto": "What we achieve inwardly will change outer reality."
+  },
+  {
+    "hitokoto": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "hitokoto": "We are all in the gutter, but some of us are looking at the stars."
+  },
+  {
+    "hitokoto": "The only way to achieve the impossible is to believe it is possible."
+  },
+  {
+    "hitokoto": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."
+  },
+  {
+    "hitokoto": "Act as if what you do makes a difference. It does."
+  },
+  {
+    "hitokoto": "Success is not in what you have, but who you are."
+  },
+  {
+    "hitokoto": "Life is short, and it is up to you to make it sweet."
+  },
+  {
+    "hitokoto": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "hitokoto": "Life is really simple, but we insist on making it complicated."
+  },
+  {
+    "hitokoto": "The mind is everything. What you think you become."
+  },
+  {
+    "hitokoto": "You don’t have to be perfect to be amazing."
+  },
+  {
+    "hitokoto": "The only time you fail is when you fall down and stay down."
+  },
+  {
+    "hitokoto": "To succeed in life, you need two things: ignorance and confidence."
+  },
+  {
+    "hitokoto": "Act as if what you do makes a difference. It does."
+  },
+  {
+    "hitokoto": "A goal without a plan is just a wish."
+  },
+  {
+    "hitokoto": "Success is the result of preparation, hard work, and learning from failure."
+  },
+  {
+    "hitokoto": "You can’t go back and change the beginning, but you can start where you are and change the ending."
+  },
+  {
+    "hitokoto": "Success doesn’t come from what you do occasionally, it comes from what you do consistently."
+  },
+  {
+    "hitokoto": "I am not a product of my circumstances. I am a product of my decisions."
+  },
+  {
+    "hitokoto": "You don’t have to be great to start, but you have to start to be great."
+  },
+  {
+    "hitokoto": "Believe in yourself and all that you are."
+  },
+  {
+    "hitokoto": "Your life is your message to the world. Make sure it’s inspiring."
+  },
+  {
+    "hitokoto": "Failure is the condiment that gives success its flavor."
+  },
+  {
+    "hitokoto": "Do not wait to strike till the iron is hot, but make it hot by striking."
+  },
+  {
+    "hitokoto": "The best time to plant a tree was 20 years ago. The second best time is now."
+  },
+  {
+    "hitokoto": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "hitokoto": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+  },
+  {
+    "hitokoto": "I don’t chase, I attract."
+  },
+  {
+    "hitokoto": "Catch me if you can."
+  },
+  {
+    "hitokoto": "Flawless? Always."
+  },
+  {
+    "hitokoto": "I’m not rude, I’m just honest."
+  },
+  {
+    "hitokoto": "Did you miss me? You should have."
+  },
+  {
+    "hitokoto": "Confidence is my favorite accessory."
+  },
+  {
+    "hitokoto": "You wish you could handle this."
+  },
+  {
+    "hitokoto": "Not everyone is meant to be my vibe."
+  },
+  {
+    "hitokoto": "I don’t need your approval, I’m already fabulous."
+  },
+  {
+    "hitokoto": "You think you can keep up? Try me."
+  },
+  {
+    "hitokoto": "I’m not here to impress, but I’m happy you’re impressed."
+  },
+  {
+    "hitokoto": "You couldn’t handle me if I came with instructions."
+  },
+  {
+    "hitokoto": "I’m not a snack, I’m the whole damn meal."
+  },
+  {
+    "hitokoto": "Don’t talk to me unless you’re ready for the challenge."
+  },
+  {
+    "hitokoto": "I’m the reason you can’t stop thinking."
+  },
+  {
+    "hitokoto": "I’m not heartless, I’m just picky."
+  },
+  {
+    "hitokoto": "I might be trouble, but trouble loves company."
+  },
+  {
+    "hitokoto": "If you can’t handle me at my worst, you don’t deserve me at my best."
+  },
+  {
+    "hitokoto": "I’m not bossy, I’m the boss."
+  },
+  {
+    "hitokoto": "Get in line, sweetie."
+  },
+  {
+    "hitokoto": "Don’t hate me because you can’t keep up."
+  },
+  {
+    "hitokoto": "I know I’m a handful, but that’s why you have two hands."
+  },
+  {
+    "hitokoto": "I’m not here for the games, unless I’m the one playing them."
+  },
+  {
+    "hitokoto": "Good things come to those who wait… but I’m not waiting."
+  },
+  {
+    "hitokoto": "I like my coffee like I like my men—strong, hot, and can keep up."
+  },
+  {
+    "hitokoto": "If you can’t handle my fire, stay out of my way."
+  },
+  {
+    "hitokoto": "I don’t follow the rules, I make them."
+  },
+  {
+    "hitokoto": "Flawlessly messy, and I love it."
+  },
+  {
+    "hitokoto": "I’m not perfect, but I’m pretty close."
+  },
+  {
+    "hitokoto": "If you’re not part of the solution, you’re part of the problem."
+  },
+  {
+    "hitokoto": "You’ll find me where the drama is."
+  },
+  {
+    "hitokoto": "I don’t play games, I win them."
+  },
+  {
+    "hitokoto": "I’m a queen, not a princess."
+  },
+  {
+    "hitokoto": "I’m not a one in a million kind of girl. I’m a once in a lifetime kind of woman."
+  },
+  {
+    "hitokoto": "Don’t mistake my kindness for weakness."
+  },
+  {
+    "hitokoto": "I’m not for everyone, but I’m perfect for the right one."
+  },
+  {
+    "hitokoto": "Why fit in when you were born to stand out?"
+  },
+  {
+    "hitokoto": "I’m not here to be average, I’m here to be amazing."
+  },
+  {
+    "hitokoto": "The only drama I enjoy is in my life, not yours."
+  },
+  {
+    "hitokoto": "Life’s too short to be anything but fabulous."
+  },
+  {
+    "hitokoto": "I’m a whole vibe. Get used to it."
+  },
+  {
+    "hitokoto": "You can’t dull my shine, babe."
+  },
+  {
+    "hitokoto": "I’ll never chase anyone who doesn’t know what they want."
+  },
+  {
+    "hitokoto": "I make my own rules, and they’re always fun."
+  },
+  {
+    "hitokoto": "You’re not ready for this, trust me."
+  },
+  {
+    "hitokoto": "Confidence is silent, but my attitude speaks volumes."
+  },
+  {
+    "hitokoto": "I’m the best thing that’s ever happened to you."
+  },
+  {
+    "hitokoto": "You should’ve known better than to mess with me."
+  },
+  {
+    "hitokoto": "Not everyone deserves to know the real me."
+  }
+]
